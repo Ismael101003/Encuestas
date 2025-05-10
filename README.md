@@ -11,10 +11,17 @@ Este repositorio contiene varios scripts en Python que llenan automáticamente u
 
 ## 🚀 Requisitos
 
-- Python 3.8+
+- Python 3.12.2 (https://www.python.org/downloads/)
 - Google Chrome
 - ChromeDriver (debe coincidir con tu versión de Chrome)  
-  👉 Descarga: https://chromedriver.chromium.org/downloads
+  👉 Descarga: https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win64/chrome-win64.zip
+    
+    ## Instrucciones para instalar ChromeDriver
+
+1. Verifica la versión de **Google Chrome** que tienes instalada.
+2. Descarga **ChromeDriver** compatible con tu versión de Chrome desde [aquí](https://chromedriver.chromium.org/downloads).
+3. Coloca **chromedriver.exe** en la misma carpeta que este proyecto o configura su ruta en tu sistema.
+
 
 ## 🔧 Instalación
 
@@ -22,3 +29,5 @@ Este repositorio contiene varios scripts en Python que llenan automáticamente u
 ```bash
 git clone https://github.com/Ismael101003/Encuestas.git
 cd Encuestas
+
+
