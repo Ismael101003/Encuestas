@@ -22,6 +22,7 @@ Este repositorio contiene varios scripts en Python que llenan automáticamente u
 2. Descarga **ChromeDriver** compatible con tu versión de Chrome desde [aquí](https://chromedriver.chromium.org/downloads).
 3. Coloca **chromedriver.exe** en la misma carpeta que este proyecto o configura su ruta en tu sistema.
 
+4. instalar git
 
 ## 🔧 Instalación
 
